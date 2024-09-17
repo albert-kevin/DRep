@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "doNotList": false,
+    "givenName": "Kevin_ALBERT",
+    "motivations": "I enjoy taking on challenges and continuously learning. Becoming a DRep allows me to use my analytical skills to make thoughtful decisions. While I may not be an expert in every area, I am committed to learning along the way.",
+    "objectives": "Make informed and rational voting decisions, considering different perspectives to help maintain and improve the Cardano blockchain for all users.",
+    "paymentAddress": "addr1vxapxglu5ermeqnes5ghlh23rauxk8np7h4xmr0j9qc77pgzz7ndd",
+    "qualifications": "I participated in the Cardano Incentivized Testnet, helping to test and improve node setups. I have a solid understanding of blockchain technology and regularly follow Cardano talks and podcasts to stay informed. I'm enthusiastic about Marlowe programming and interested in a future where financial contracts can be created and used by anyone without intermediaries. I also participate in community projects like Littlefish and Gimbalabs to help, learn, and collaborate with others.",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "LinkedIn profile",
+        "uri": "https://www.linkedin.com/in/albertkevin/"
+      },
+      {
+        "@type": "Identity",
+        "label": "LinkedIn Post - Proof of Identity for DRep ID",
+        "uri": "https://tinyurl.com/2hwa7dff"
+      }
+    ]
+  }
+}
