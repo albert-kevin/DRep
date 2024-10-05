@@ -1,56 +1,56 @@
 {
-    "@context": {
-      "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
-      "hashAlgorithm": "CIP100:hashAlgorithm",
-      "body": {
-        "@id": "CIP100:body",
-        "@context": {
-          "references": {
-            "@id": "CIP100:references",
-            "@container": "@set",
-            "@context": {
-              "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
-              "Other": "CIP100:OtherReference",
-              "label": "CIP100:reference-label",
-              "uri": "CIP100:reference-uri",
-              "referenceHash": {
-                "@id": "CIP100:referenceHash",
-                "@context": {
-                  "hashDigest": "CIP100:hashDigest",
-                  "hashAlgorithm": "CIP100:hashAlgorithm"
-                }
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
               }
             }
-          },
-          "comment": "CIP100:comment",
-          "externalUpdates": {
-            "@id": "CIP100:externalUpdates",
-            "@context": {
-              "title": "CIP100:update-title",
-              "uri": "CIP100:uri"
-            }
           }
-        }
-      },
-      "authors": {
-        "@id": "CIP100:authors",
-        "@container": "@set",
-        "@context": {
-          "name": "http://xmlns.com/foaf/0.1/name",
-          "witness": {
-            "@id": "CIP100:witness",
-            "@context": {
-              "witnessAlgorithm": "CIP100:witnessAlgorithm",
-              "publicKey": "CIP100:publicKey",
-              "signature": "CIP100:signature"
-            }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
           }
         }
       }
     },
-    "authors": [],
-    "body": {
-      "comment": "Cardano hardforks should keep a professional naming tradition, not be linked to meme tokens like \"HOSKY.\" I believe we should follow CIP-59 or future adaptations to ensure clarity and seriousness.\n "
-    },
-    "hashAlgorithm": "blake2b-256"
-  }
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "Cardano hardforks should keep a professional naming tradition, not be linked to meme tokens like HOSKY.\nI believe we should follow CIP-59 or future adaptations to ensure clarity and seriousness."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
