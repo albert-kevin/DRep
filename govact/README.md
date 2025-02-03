@@ -1,14 +1,14 @@
 ## government actions rationale
   
 **gov_action1zhuz5djmmmjg8f9s8pe6grfc98xg3szglums8cgm6qwancp4eytqqmpu0pr**  
-**InfoAction** 
+**InfoAction**  
 **Rationale for Voting No on Naming the Next Hardfork "HOSKY"**  
 Cardano hardforks should keep a professional naming tradition, not be linked to meme tokens like HOSKY.  
 I believe we should follow CIP-59 or future adaptations to ensure clarity and seriousness.  
 That's why I'm voting no on this proposal.  
   
 **gov_action1t87n2vjnavthuggyarerafxx8c7n9mu4c7r96qlfp5uggsjdc8dsqymg588**  
-**InfoAction** 
+**InfoAction**  
 **Rationale for voting YES on Commitment to Cardano's Vision and Community**  
 I'm voting YES as a symbol of appreciation for the visionaries behind Cardano.  
 This vote represents my commitment to the community's shared mission of decentralization,  
