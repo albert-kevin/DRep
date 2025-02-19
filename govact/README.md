@@ -42,3 +42,11 @@ The real test is whether big investors and DReps act wisely.
 Let's debate, make tough calls, and set an example.  
 The crypto world needs this. Let's make it happen!  
   
+**gov_action1js2s9v92zpxg2rge0y3jt9zy626he2m67x9kx9phw4r942kvsn6sqfym0d7**  
+**ParameterChange**  
+**Rationale for voting NO on lowering the "Treasury Tax"**  
+I believe it is too early to change this parameter, as key upgrades like BOS, Leios, and Hydra must first be implemented on the mainnet.  
+Additionally, the Cardano project budget should be approved before making any adjustments.  
+While I support lower taxation, it is wiser to wait a little longer before implementing changes.  
+  
+  
