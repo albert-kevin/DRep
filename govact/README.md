@@ -49,4 +49,14 @@ I believe it is too early to change this parameter, as key upgrades like BOS, Le
 Additionally, the Cardano project budget should be approved before making any adjustments.  
 While I support lower taxation, it is wiser to wait a little longer before implementing changes.  
   
+**gov_action12meeq4r43udremwpm6fzt4nt7fctvt0ah7798x036m2r4nhlccmqqhmr9wx**  
+**InfoAction**  
+**Rationale for Voting YES on the 2025 Vision & Roadmap for Cardano**  
+I am voting YES on the 2025 Vision & Roadmap for Cardano because it outlines a well-structured and ambitious plan to enhance scalability, decentralization, and usability.  
+The roadmap presents a strong commitment to technical excellence, including advancements such as Leios for improved transaction throughput,  
+Hydra and Midgard for L2 scaling, and innovations in programmable assets.  
+These developments will strengthen Cardano’s position as a leading blockchain ecosystem by fostering developer engagement, increasing interoperability,  
+and driving real-world adoption. The work done by the community, developers, and governance members is commendable,  
+and I fully support these improvements to ensure a sustainable and decentralized future for Cardano.  
+  
   
