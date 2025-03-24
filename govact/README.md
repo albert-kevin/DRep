@@ -60,3 +60,14 @@ and driving real-world adoption. The work done by the community, developers, and
 and I fully support these improvements to ensure a sustainable and decentralized future for Cardano.  
   
   
+**gov_action10ueqgzwenxr39le68n0se9peu92r7gm2846xwehh3u0ahc0qd0uqqyljxu5**  
+**InfoAction**  
+**Rationale for voting YES on Setting 2025 Net Change Limit of 300M ADA, 2026 Net Change Limit of 250M ADA**  
+I'm voting YES to approve a Net Change Limit of 300M ADA for 2025 and 250M ADA for 2026.  
+This ensures responsible spending by limiting expenditures to match the expected inflows, maintaining financial stability and preserving treasury reserves for the long-term health of Cardano.  
+I recognize valid concerns about potential centralization and complex bureaucracy in future budget allocations.  
+Voting YES now sets clear financial boundaries without endorsing any particular organization or governance style.  
+Future funding proposals should be transparent, decentralized, and carefully monitored.  
+My YES vote is a first step towards responsible financial governance, ensuring that resources remain available for meaningful, community-supported projects.  
+  
+  
