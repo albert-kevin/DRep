@@ -70,4 +70,9 @@ Voting YES now sets clear financial boundaries without endorsing any particular 
 Future funding proposals should be transparent, decentralized, and carefully monitored.  
 My YES vote is a first step towards responsible financial governance, ensuring that resources remain available for meaningful, community-supported projects.  
   
+**gov_action1nd3t833j7v5sz65k3tp9yyvztw60sjcjgcgjr37682s3m7frwrusqmd2k80**
+**InfoAction**
+**Rationale for voting YES on 2025 Net Change Limit of 350M ADA**
+I agree to set the Net Change Limit (NCL) to 350 million ADA for 2025.  
+Enabling treasury withdrawals to fund Cardano’s ecosystem growth without risking depletion.  
   
