@@ -76,3 +76,14 @@ My YES vote is a first step towards responsible financial governance, ensuring t
 I agree to set the Net Change Limit (NCL) to 350 million ADA for 2025.  
 Enabling treasury withdrawals to fund Cardano’s ecosystem growth without risking depletion.  
   
+**gov_action10k0unljvaej0kd89w7pn0zkgdx59c7xkl0x5q78dzvdtd73u0kmqq5xl5y5**  
+**InfoAction**  
+**Rationale for voting YES on 2025 Net Change Limit of 200M ADA**  
+I vote YES on the 200M ADA Net Change Limit for 2025.  
+This cap, well below the annual inflow of approximately 315M ADA, protects the treasury’s reserves of 1.71B ADA,  
+aligning with my support for the 300M/250M NCL. Although the 200M ADA does not meet all budget proposals,  
+it forces prioritization of high-impact projects, consistent with my vote for 350M to promote disciplined growth.  
+The lower limit reduces selling pressure on ADA, addresses Stake Pool Operators concerns after their rejection of the 350M NCL,  
+and supports price stability.  
+By voting YES, I break the deadlock following the split over the 350M NCL,  
+enabling treasury withdrawals before the May 30, 2025, deadline.
