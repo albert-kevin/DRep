@@ -133,3 +133,18 @@ and add unnecessary complexity to a governance process that is already spread ac
 I will support these same initiatives once they are presented through a single, coherent budget or  
 as individual InfoActions with clear terms, but until then the prudent choice is to preserve treasury clarity and vote NO.  
   
+**gov_action1u9x73kwufaxa70lfy59g4ynwyrcsaxdcd0gxzzmh67s9fxq4j8hqqk2phgh**  
+**InfoAction**  
+**Rationale for voting YES on the 275 M ADA Cardano Blockchain Ecosystem Budget**  
+I am voting YES because this single, on-chain budget translates the broad DRep mandate expressed in Ekklesia—more than 70 % of active stake  
+into an executable plan that remains beneath the 300 M ADA Net Change Limit I already endorsed.  
+By grouping the thirty-nine proposals that cleared the 50 % support threshold and explicitly asked Intersect to act as administrator,  
+we avoid a patchwork of separate withdrawals, reduce deposits that smaller teams cannot afford, and  
+give the community one clear point of oversight. Each project will still face its own due-diligence, milestone, and  
+smart-contract escrow before funds leave the treasury, so low-quality work can be halted without jeopardising the rest.  
+Approving the budget now keeps treasury outflows roughly in line with expected inflows, prevents decision-making gridlock, and  
+lets builders focus on delivering the 2025 roadmap while DReps retain the right to scrutinise every withdrawal.  
+For these reasons, and to maintain momentum under the constitutional process we helped create,  
+I support the Intersect aggregate budget.  
+  
+  
