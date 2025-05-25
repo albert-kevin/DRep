@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I'm voting YES because a second, Rust-based block-producing node adds vital resilience and removes the single-implementation risk currently hanging over Cardano. The maintainer committee—Blink Labs, dcSpark, Sundae Labs, TxPipe, Cardano Foundation, and Pi Lanningham—has a proven record of shipping high-quality infrastructure, so I trust their ability to deliver. The ₳1.5 M ask is bounded to six months, guarded by a smart-contract escrow and quarterly public reports; if milestones slip, unused funds flow back to the treasury. Rust's efficiency and built-in observability will lower hardware costs for small SPOs and give us better telemetry, while encouraging fresh contributors from the wider Rust ecosystem. Finally, backing PRAGMA alongside Intersect strengthens collaboration rather than rivalry—diverse teams, shared vision, stronger network. Let's fund this pilot, measure its progress, and reassess future budgets based on results."
+  },
+  "hashAlgorithm": "blake2b-256"
+}

@@ -70,9 +70,9 @@ Voting YES now sets clear financial boundaries without endorsing any particular 
 Future funding proposals should be transparent, decentralized, and carefully monitored.  
 My YES vote is a first step towards responsible financial governance, ensuring that resources remain available for meaningful, community-supported projects.  
   
-**gov_action1nd3t833j7v5sz65k3tp9yyvztw60sjcjgcgjr37682s3m7frwrusqmd2k80**
-**InfoAction**
-**Rationale for voting YES on 2025 Net Change Limit of 350M ADA**
+**gov_action1nd3t833j7v5sz65k3tp9yyvztw60sjcjgcgjr37682s3m7frwrusqmd2k80**  
+**InfoAction**  
+**Rationale for voting YES on 2025 Net Change Limit of 350M ADA**  
 I agree to set the Net Change Limit (NCL) to 350 million ADA for 2025.  
 Enabling treasury withdrawals to fund Cardano’s ecosystem growth without risking depletion.  
   
@@ -87,3 +87,18 @@ The lower limit reduces selling pressure on ADA, addresses Stake Pool Operators 
 and supports price stability.  
 By voting YES, I break the deadlock following the split over the 350M NCL,  
 enabling treasury withdrawals before the May 30, 2025, deadline.
+  
+**gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fesnqqw9kxxz**  
+**InfoAction**  
+**Rationale for voting YES on funding the "Amaru" Rust node**  
+I'm voting YES because a second, Rust-based block-producing node adds vital resilience and  
+removes the single-implementation risk currently hanging over Cardano. The maintainer committee—Blink Labs,  
+dcSpark, Sundae Labs, TxPipe, Cardano Foundation, and Pi Lanningham — has a proven record of shipping high-quality infrastructure,  
+so I trust their ability to deliver. The ₳1.5 M ask is bounded to six months, guarded by a smart-contract escrow and  
+quarterly public reports; if milestones slip, unused funds flow back to the treasury.  
+Rust's efficiency and built-in observability will lower hardware costs for small SPOs and give us better telemetry,  
+while encouraging fresh contributors from the wider Rust ecosystem.  
+Finally, backing PRAGMA alongside Intersect strengthens collaboration rather than rivalry—diverse teams,  
+shared vision, stronger network. Let's fund this pilot, measure its progress, and reassess future budgets based on results.  
+  
+  
