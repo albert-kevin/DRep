@@ -114,4 +114,13 @@ multi-currency, milestone-gated, with instant claw-backs—could test the "sover
 Until such a scoped proposal appears, the prudent move is to preserve treasury funds and  
 let open-market demand grow stablecoin liquidity organically.  
   
+**gov_action1vdlrcftd48qn2zz8egepr6xyfcmxpfz8r69k769gc5mhg662adesq9yy8pl**  
+**InfoAction**  
+**Rationale for voting YES on 2025 Net Change Limit of 300M ADA**  
+  
+I support this NCL because 300M ADA matches the treasury’s expected inflow for the same 73-epoch window (Epoch 563 – 635),  
+keeping withdrawals in line with deposits.  
+It gives teams approved for 2025 a clear budget runway into early 2026 while staying below the 350 M cap I previously endorsed,  
+preserving reserves for future cycles. A simple, inflation-neutral ceiling maintains fiscal discipline yet  
+leaves room for essential infrastructure and governance work—exactly the balance our earlier votes aimed to achieve.  
   
