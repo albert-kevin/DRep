@@ -101,4 +101,17 @@ while encouraging fresh contributors from the wider Rust ecosystem.
 Finally, backing PRAGMA alongside Intersect strengthens collaboration rather than rivalry—diverse teams,  
 shared vision, stronger network. Let's fund this pilot, measure its progress, and reassess future budgets based on results.  
   
+**gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmcwzqql5lauu**  
+**InfoAction**  
+**Rationale for voting NO on the "Cardano Treasury DeFi Liquidity Budget"**  
+I'm voting NO because the plan asks the treasury to sink 50 million ADA into fiat-backed stablecoins without even specifying which ones.  
+Today Cardano's native stablecoin market is tiny—about $23 million total and almost all USD-pegged tokens.  
+Backing only dollar coins would tether our ecosystem to U.S. monetary policy and concentrate regulatory risk,  
+while monthly conversions of ADA to fiat could still pressure the price.  
+The scheme returns just 15 % of the yield to the treasury and puts principal at the mercy of smart-contract exploits or a stablecoin de-peg.  
+A small, fully on-chain pilot—say 5-10 million ADA,  
+multi-currency, milestone-gated, with instant claw-backs—could test the "sovereign-wealth" idea safely.  
+Until such a scoped proposal appears, the prudent move is to preserve treasury funds and  
+let open-market demand grow stablecoin liquidity organically.  
+  
   
