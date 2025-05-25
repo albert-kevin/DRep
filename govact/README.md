@@ -117,10 +117,19 @@ let open-market demand grow stablecoin liquidity organically.
 **gov_action1vdlrcftd48qn2zz8egepr6xyfcmxpfz8r69k769gc5mhg662adesq9yy8pl**  
 **InfoAction**  
 **Rationale for voting YES on 2025 Net Change Limit of 300M ADA**  
-  
 I support this NCL because 300M ADA matches the treasury’s expected inflow for the same 73-epoch window (Epoch 563 – 635),  
 keeping withdrawals in line with deposits.  
 It gives teams approved for 2025 a clear budget runway into early 2026 while staying below the 350 M cap I previously endorsed,  
 preserving reserves for future cycles. A simple, inflation-neutral ceiling maintains fiscal discipline yet  
 leaves room for essential infrastructure and governance work—exactly the balance our earlier votes aimed to achieve.  
+  
+**gov_action1mmalzkcxpyn33t05hml2hxpwq0ffv6uu4mhe8sv7guz5nmm4afysqlmepzl**  
+**InfoAction**  
+**Rationale for voting NO on the 2025 Cardano Blockchain Ecosystem Budget – 7.5M ADA for Community Builders**  
+I am voting NO because this request duplicates projects that are already scheduled to receive funding in the main 2025 Intersect budget,  
+yet appoints Intersect as fund administrator without explicit consent from every team and without a shared framework for milestones,  
+reporting, or claw-backs; approving it now would create overlapping custody arrangements, invite double payments,  
+and add unnecessary complexity to a governance process that is already spread across GovTool, Ekklesia, and on-chain actions.  
+I will support these same initiatives once they are presented through a single, coherent budget or  
+as individual InfoActions with clear terms, but until then the prudent choice is to preserve treasury clarity and vote NO.  
   
