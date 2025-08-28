@@ -151,7 +151,15 @@ I support the Intersect aggregate budget.
 **gov_action1g7sw0f8e8qa34lppj2erksvzf4j6e9udwaq6efslc8apdqeazygsq2spyyt**  
 **New committee**  
 **Rationale for voting YES on “Replace Interim Constitutional Committee”**  
-  
 I am voting YES because this action simply enacts the results of the May–July 2025 community election and replaces the temporary (interim) Constitutional Committee (CC) with the newly elected CC before the interim term expires; this ensures governance keeps working without a gap for proposals that require CC approval. A YES means the new, community-elected CC takes over with staggered one-year and two-year terms, giving a soft handover that blends fresh members with experienced community councils; I also appreciate that the Cardano Foundation is stepping aside here to strengthen decentralization. Some have noted that only DReps voted in the election, but Cardano’s model is delegated democracy: any ADA holder can become a DRep and vote directly, or delegate their voting power to a DRep and change that delegation at any time. If we vote NO, the interim CC will time out and Cardano could face a governance pause—technical operations continue, but actions needing CC sign-off cannot be approved until a new committee is installed later. For those who want to learn more or take part next time, the official election portal used by DReps is: elections.constitution.gov.tools (with voting run via Ekklesia).  
+  
+  
+**gov_action1fl6r784t2ffw7q96du2znhprw90r3xvrfugvqelgqewgxex42kdqq9tgrd5**  
+**Treasury withdrawals**  
+**Rationale for voting NO on Cardano Global Listing Expansion – Powered by Snek**  
+I’m voting NO. SNEK has real momentum and has already paid for big listings itself, but using 5M ADA from the Cardano Treasury to list and market one token isn’t a public-good expense. It sets a precedent for project-specific listing fees, shifts focus off on-chain growth (CEX trading doesn’t require the Cardano network), and diverts funds from things that help everyone—developer tools, ADA/stablecoin liquidity, compliance frameworks any token can reuse, UX, and core upgrades. We’ll get better long-term onboarding from ecosystem work like BOS, Midnight, and later Leios—tech alone isn’t enough, but public money should build foundations, not promote a single ticker. For marketing-style asks, Project Catalyst is the better venue where the whole community (not just DReps) reviews and votes.
+  
+Side note for newcomers: if you enjoy the culture, check out Snek and its playful cousin Snok, plus NikePig—they’re part of Cardano’s meme “family” and fun to follow. 
+(snek.com) (snok.lol) (nikepig.com)  
   
   
