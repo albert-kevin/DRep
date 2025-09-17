@@ -208,4 +208,12 @@ If the community wants experiments with stablecoin liquidity, they should be pro
 Cardano represents more than money alone: RWA, NFTs, smart and financial contracts, BOS integration, and scaling are all stronger reasons for treasury investment.  
   
 
+**gov_action1jr84r96lnsvu9yd6c0jhxe9gj5r7vnd2pgkntc6klplxdpyzz4tqqc9uldx**  
+**InfoAction**  
+**Rationale for Voting NO on "Cardano Global Listing Expansion – SNEK Loan"**  
+I’m voting NO. Even as a loan, using 5M ADA of public funds to list and market a single meme token isn’t a treasury mandate or a public good. It sets a precedent that the treasury bankrolls project-specific CEX fees and market-making while the actual activity happens off-chain and doesn’t require Cardano.
+I respect SNEK’s hustle and culture—memes are fun, treasuries are serious. If this makes sense, fund it via private capital, sponsors, or Project Catalyst where marketing-style proposals belong. A 2.44% APR near staking yield doesn’t compensate the risk of default, enforcement, and reputational downside if a meme cycle turns.
+I prefer treasury spending on foundations that benefit everyone (dev tooling, infra, UX, compliance frameworks, BOS/L2s, core upgrades), not promoting a single ticker. Enjoy the memes on the timeline; I won’t underwrite them with public ADA.  
+  
+
   
