@@ -216,4 +216,12 @@ I respect SNEK’s hustle and culture—memes are fun, treasuries are serious. I
 I prefer treasury spending on foundations that benefit everyone (dev tooling, infra, UX, compliance frameworks, BOS/L2s, core upgrades), not promoting a single ticker. Enjoy the memes on the timeline; I won’t underwrite them with public ADA.  
   
 
+**gov_action13836fuy3yttxn4hkeqka398q9qnwsjtmul4sxc3nht7qae8uvejsqm7ukh8**  
+**InfoActions**  
+**Rationale for Voting NO on "Cardano in Oceania 2025–2026 Strategy & Budget"**  
+I’m voting NO. Regional adoption and marketing programs are better piloted via Project Catalyst and local co-funding, not the main Treasury.  
+The plan concentrates spend on soft outputs (events, promotion, meetups) with weak guarantees they convert into durable, on-chain usage.  
+It also introduces an external administrator layer and prioritizes one geography with funds that should build global,  
+reusable public goods (dev tooling, infra, wallets, standards).  
   
+
