@@ -199,3 +199,13 @@ Bottom line
 I’m voting YES because v2.0 cleans up the Constitution and streamlines how we fund work—helping real builders move faster—while we continue polishing details together.  
   
   
+**gov_action1u4jrcvlkppjzuv5j9z5ksacwtvv77h6glu0knpcjut8gvjjfu0cqqt3alsy**  
+**InfoAction**  
+**Rationale for Voting No on Treasury Stablecoin Liquidity Fund**  
+Cardano treasury funds should be used for development, infrastructure, and public goods, not for converting ADA into fiat-backed stablecoins.  
+I prefer peer-to-peer trade in ADA itself, this directs value away into USD-based assets alone.  
+If the community wants experiments with stablecoin liquidity, they should be proposed through Catalyst or voluntary initiatives, not with 50 million ADA from the treasury.  
+Cardano represents more than money alone: RWA, NFTs, smart and financial contracts, BOS integration, and scaling are all stronger reasons for treasury investment.  
+  
+
+  
