@@ -217,11 +217,19 @@ I prefer treasury spending on foundations that benefit everyone (dev tooling, in
   
 
 **gov_action13836fuy3yttxn4hkeqka398q9qnwsjtmul4sxc3nht7qae8uvejsqm7ukh8**  
-**InfoActions**  
+**InfoAction**  
 **Rationale for Voting NO on "Cardano in Oceania 2025–2026 Strategy & Budget"**  
 I’m voting NO. Regional adoption and marketing programs are better piloted via Project Catalyst and local co-funding, not the main Treasury.  
 The plan concentrates spend on soft outputs (events, promotion, meetups) with weak guarantees they convert into durable, on-chain usage.  
 It also introduces an external administrator layer and prioritizes one geography with funds that should build global,  
 reusable public goods (dev tooling, infra, wallets, standards).  
+  
+
+**gov_action1n9hdlcmshrj3hee4g8n4fxdgrprpxp0r03l6psd3j0evtpck0nrsqm57age**  
+**InfoAction**  
+**Rationale for Voting YES on "Defining the Cardano 2030 Vision & Strategy"**  
+I am voting YES on the Cardano 2030 Vision & Strategy because I believe our ecosystem needs a guiding framework now, even if it is imperfect. The document provides ambition, direction, and a shared “North Star,” which is better than moving forward with no vision at all. At the same time, I recognize the validity of many concerns: the lack of explicit mapping between vision and strategy, the vagueness around key technologies like Leios or Hydra, the absence of privacy and governance details, and the risks of aspirational KPIs without clear execution plans.  
+  
+My support is therefore conditional in spirit: I see this as a provisional strategy that must be improved. Going forward, I expect stronger commitments to disruptive citizen-empowering projects, better documentation and education, transparent funding oversight, concrete adoption of ADA as currency, and measurable delivery in regions like Africa. I also believe governance and treasury KPIs should be added to ensure accountability.  
   
 

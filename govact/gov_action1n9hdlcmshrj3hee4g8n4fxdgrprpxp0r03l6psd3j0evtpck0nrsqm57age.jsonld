@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I am voting YES on the Cardano 2030 Vision & Strategy because I believe our ecosystem needs a guiding framework now, even if it is imperfect. The document provides ambition, direction, and a shared “North Star,” which is better than moving forward with no vision at all. At the same time, I recognize the validity of many concerns: the lack of explicit mapping between vision and strategy, the vagueness around key technologies like Leios or Hydra, the absence of privacy and governance details, and the risks of aspirational KPIs without clear execution plans.\n\nMy support is therefore conditional in spirit: I see this as a provisional strategy that must be improved. Going forward, I expect stronger commitments to disruptive citizen-empowering projects, better documentation and education, transparent funding oversight, concrete adoption of ADA as currency, and measurable delivery in regions like Africa. I also believe governance and treasury KPIs should be added to ensure accountability."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
