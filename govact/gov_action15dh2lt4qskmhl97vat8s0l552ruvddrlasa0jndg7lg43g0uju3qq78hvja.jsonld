@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote NO on the governance action for .ada and .cardano gTLDs. I prioritize proposals that solve real problems for Cardano’s users and developers, like Python’s practical tools drove its growth. This is an expensive branding effort with no clear use case, such as wallet or DApp integration, to boost users or developers. The costs, potentially $2 million per year, are high for unproven impact. Although the Cardano Foundation (CF) uses its own funds, these were once community assets, and their occasionally obstructive stance conflicts with Cardano’s decentralized, community-driven vision. Transparency is promised but doesn’t deliver tangible benefits. Pros: A gTLD could increase Cardano’s visibility and potentially spark Web3 innovation, like .xyz or .crypto. Cons: Without a concrete application, this is a symbolic investment with little measurable impact. The CF’s control over domain sales could centralize power, letting them profit or favor certain projects without strong community oversight, undermining decentralization. I only support projects with proven, community-driven value."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
