@@ -266,4 +266,13 @@ Downsides: partner names stay secret for deals, cutting early community checks a
 The Cardano Constitution sets a minimum of seven members for the Constitutional Committee, but no maximum, so adding Christina after her close tie with Curia in the snap election fits the rules and boosts resilience—if someone quits, the committee stays above seven and avoids delays in approving actions. Christina adds enthusiasm and fresh ideas, helping users and developers on Cardano, and this follows the permissionless system where anyone can propose changes for more freedom and decentralization. On the downside, with eight members (an even number), decisions need 67% approval, meaning at least six yes votes out of eight; a 4-4 split or close votes could block actions more often, leading to slower governance, and while there's no pay for members now, a bigger group might cost the treasury more later if compensation starts, making it less efficient. Still, I vote yes because the gains in stability and inclusion outweigh the risks.  
   
 
+**gov_action18fd7jwa06fksmwumlcvlft8v4guvaa672qsp6xgenekvs4kmvcqsq8cqks4**  
+**InfoAction**  
+**Rationale for voting YES on Cardano 2030: Vision, Mission, Strategy Framework and KPIs**  
+This framework is designed to inform me voting, not enforce it.
+I acknowledge that it provides a shared direction to channel collective effort.
+By adopting this vision, the community gains the strategic discipline to focus resources and accelerate coherent, long-term growth and treasury resource allocations.
+I is clearly stated what the vision is and the KPI's and that this framework is adaptable.  
+  
+
   
