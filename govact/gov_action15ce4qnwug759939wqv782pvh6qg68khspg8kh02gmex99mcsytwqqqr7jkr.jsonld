@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "This proposal requests 1.5M ADA to upgrade DeltaDeFi, a Hydra-based platform for fast off-chain trades.\n\nPros: open-source GitHub tools (Apache license) reusable for DeFi (trading without banks), ties to 2030 goals with KPIs like $10M TVL (locked money) and 1,000 traders, built on 650K ADA from Project Catalyst, and quarterly reports for accountability.\n\nCons: seeks more funds without proving users or liquidity, no clear plan for attracting traders beyond \"build it and they come,\" which failed most Cardano DEXs except Minswap per adastat.net. The 20% budget (300K ADA) for custom metrics tracking is wasteful given Cardano's Dune partnership for cheap TVL/volume data. Without a loan or profit share like SNEK (required repayment per intersectmbo.org), it feels like funding private business over ecosystem infrastructure."
+  },
+  "hashAlgorithm": "blake2b-256"
+}

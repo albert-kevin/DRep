@@ -207,7 +207,7 @@ I prefer peer-to-peer trade in ADA itself, this directs value away into USD-base
 If the community wants experiments with stablecoin liquidity, they should be proposed through Catalyst or voluntary initiatives, not with 50 million ADA from the treasury.  
 Cardano represents more than money alone: RWA, NFTs, smart and financial contracts, BOS integration, and scaling are all stronger reasons for treasury investment.  
   
-
+  
 **gov_action1jr84r96lnsvu9yd6c0jhxe9gj5r7vnd2pgkntc6klplxdpyzz4tqqc9uldx**  
 **InfoAction**  
 **Rationale for Voting NO on "Cardano Global Listing Expansion – SNEK Loan"**  
@@ -215,7 +215,7 @@ I’m voting NO. Even as a loan, using 5M ADA of public funds to list and market
 I respect SNEK’s hustle and culture—memes are fun, treasuries are serious. If this makes sense, fund it via private capital, sponsors, or Project Catalyst where marketing-style proposals belong. A 2.44% APR near staking yield doesn’t compensate the risk of default, enforcement, and reputational downside if a meme cycle turns.
 I prefer treasury spending on foundations that benefit everyone (dev tooling, infra, UX, compliance frameworks, BOS/L2s, core upgrades), not promoting a single ticker. Enjoy the memes on the timeline; I won’t underwrite them with public ADA.  
   
-
+  
 **gov_action13836fuy3yttxn4hkeqka398q9qnwsjtmul4sxc3nht7qae8uvejsqm7ukh8**  
 **InfoAction**  
 **Rationale for Voting NO on "Cardano in Oceania 2025–2026 Strategy & Budget"**  
@@ -224,7 +224,7 @@ The plan concentrates spend on soft outputs (events, promotion, meetups) with we
 It also introduces an external administrator layer and prioritizes one geography with funds that should build global,  
 reusable public goods (dev tooling, infra, wallets, standards).  
   
-
+  
 **gov_action1n9hdlcmshrj3hee4g8n4fxdgrprpxp0r03l6psd3j0evtpck0nrsqm57age**  
 **InfoAction**  
 **Rationale for Voting YES on "Defining the Cardano 2030 Vision & Strategy"**  
@@ -232,7 +232,7 @@ I am voting YES on the Cardano 2030 Vision & Strategy because I believe our ecos
   
 My support is therefore conditional in spirit: I see this as a provisional strategy that must be improved. Going forward, I expect stronger commitments to disruptive citizen-empowering projects, better documentation and education, transparent funding oversight, concrete adoption of ADA as currency, and measurable delivery in regions like Africa. I also believe governance and treasury KPIs should be added to ensure accountability.  
   
-
+  
 **gov_action1ezp0r9rgf4njx93p9uq7l3kjs9m739jm0ntf26vplcmucec4jc0qqxjlfrc**  
 **NewConstitution**  
 **Rationale for voting YES on "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION v2.3"**  
@@ -240,32 +240,32 @@ I’ve reviewed the changes from Cardano Constitution v2.0 to v2.3, as detailed 
   
 However, there are risks. The removal of the requirement to name recipients of treasury withdrawals (ARTICLE II, Section 7) could obscure who gets funds, reducing transparency and risking misuse, as noted in other DReps’ concerns about accountability. Not mandating funds for audits in withdrawal proposals might lead to weaker oversight, as audits could be underfunded, potentially allowing sloppy spending. Dropping the Constitutional Committee’s code of conduct mandate (ARTICLE VII, Section 6) means the CC, which approves governance actions, isn’t required to follow clear ethical rules. This could lead to inconsistent decisions, eroding community trust, as some DReps argue it makes the Constitution feel less authoritative. The new “Stake Pool Operator” definition as “the entity controlling cold keys” (ARTICLE II, Section 5) might confuse voting rights in multi-party pool setups, where the keyholder isn’t the main operator, potentially disrupting fair governance.  
   
-
+  
 **gov_action15dh2lt4qskmhl97vat8s0l552ruvddrlasa0jndg7lg43g0uju3qq78hvja**  
 **InfoAction**  
 **Rationale for voting NO on "Securing Generic Top-Level Domains for the Cardano Ecosystem"**  
 I vote NO on the governance action for .ada and .cardano gTLDs. I prioritize proposals that solve real problems for Cardano’s users and developers, like Python’s practical tools drove its growth. This is an expensive branding effort with no clear use case, such as wallet or DApp integration, to boost users or developers. The costs, potentially $2 million per year, are high for unproven impact. Although the Cardano Foundation (CF) uses its own funds, these were once community assets, and their occasionally obstructive stance conflicts with Cardano’s decentralized, community-driven vision. Transparency is promised but doesn’t deliver tangible benefits. Pros: A gTLD could increase Cardano’s visibility and potentially spark Web3 innovation, like .xyz or .crypto. Cons: Without a concrete application, this is a symbolic investment with little measurable impact. The CF’s control over domain sales could centralize power, letting them profit or favor certain projects without strong community oversight, undermining decentralization. I only support projects with proven, community-driven value.  
   
-
+  
 **gov_action169kllwhfmp488je5x5rwvufd08p8sztdcf0ghf5sp6ey2gnjdwaqql47xry**  
 **InfoAction**  
 **Rationale for voting YES on "2025 Net Change Limit Extension"**  
 I vote YES on the "2025 Net Change Limit Extension" because it keeps Cardano's treasury operations running smoothly without raising the 350M ADA spending cap. It avoids a governance freeze after Epoch 604, allowing key proposals like the 70M ADA Cardano Critical Integrations Budget (for upgrades in scalability and security) to execute on time, benefiting users who rely on these features. Other DReps highlight this continuity as a main reason for yes, and the official explanation at https://github.com/Tingvard-cc/public-records/tree/main/ncl-clarity confirms it adds no new spending but extends the term to Epoch 612 to sidestep constitutional issues.  
   
-
+  
 **gov_action13a2dqgwxum7d6kjfprcs57cf9733ek2dkt5qnuhqd4ll5ntcwu7sqluwkxd**  
 **InfoAction**  
 **Rationale for voting YES on "Cardano Critical Integrations Budget"**  
 I vote YES on the Cardano Critical Integrations Budget because it teams up Cardano's main founders — Input Output Global, Cardano Foundation, and EMURGO — to add needed tools like stablecoins, bridges to other chains, oracles for real-world data and real-world assets projects. Funds go out only after milestones, with audits and reports for transparency, and leftovers return to the treasury in 24 months.
 Downsides: partner names stay secret for deals, cutting early community checks and risking trust if things fail or lean too central, like fiat stablecoins that go against Satoshi's idea of avoiding controlled money and inflation. It hands more cash to big groups like the Foundation, who already hold plenty from early days, instead of using that or funding independent projects that proved themselves, which might slow real decentralization by depending on central players. No full cost details upfront could lead to waste.  
   
-    
+  
 **gov_action1aw809r9gpk7eemt02alszw7lceyf0505uvntavm62rakkckr3nxsqd54zm8**  
 **InfoAction**  
 **Rationale for voting YES on Adding Christina as Extra Constitutional Committee Member**  
 The Cardano Constitution sets a minimum of seven members for the Constitutional Committee, but no maximum, so adding Christina after her close tie with Curia in the snap election fits the rules and boosts resilience—if someone quits, the committee stays above seven and avoids delays in approving actions. Christina adds enthusiasm and fresh ideas, helping users and developers on Cardano, and this follows the permissionless system where anyone can propose changes for more freedom and decentralization. On the downside, with eight members (an even number), decisions need 67% approval, meaning at least six yes votes out of eight; a 4-4 split or close votes could block actions more often, leading to slower governance, and while there's no pay for members now, a bigger group might cost the treasury more later if compensation starts, making it less efficient. Still, I vote yes because the gains in stability and inclusion outweigh the risks.  
   
-
+  
 **gov_action18fd7jwa06fksmwumlcvlft8v4guvaa672qsp6xgenekvs4kmvcqsq8cqks4**  
 **InfoAction**  
 **Rationale for voting YES on Cardano 2030: Vision, Mission, Strategy Framework and KPIs**  
@@ -274,5 +274,14 @@ I acknowledge that it provides a shared direction to channel collective effort.
 By adopting this vision, the community gains the strategic discipline to focus resources and accelerate coherent, long-term growth and treasury resource allocations.
 I is clearly stated what the vision is and the KPI's and that this framework is adaptable.  
   
-
   
+**gov_action15ce4qnwug759939wqv782pvh6qg68khspg8kh02gmex99mcsytwqqqr7jkr**  
+**InfoAction**  
+**Rationale for Voting No on DeltaDeFi: Hydra Trading Infrastructure Budget**  
+This proposal requests 1.5M ADA to upgrade DeltaDeFi, a Hydra-based platform for fast off-chain trades.  
+  
+Pros: open-source GitHub tools (Apache license) reusable for DeFi (trading without banks), ties to 2030 goals with KPIs like $10M TVL (locked money) and 1,000 traders, built on 650K ADA from Project Catalyst, and quarterly reports for accountability.  
+  
+Cons: seeks more funds without proving users or liquidity, no clear plan for attracting traders beyond "build it and they come," which failed most Cardano DEXs except Minswap per adastat.net. The 20% budget (300K ADA) for custom metrics tracking is wasteful given Cardano's Dune partnership for cheap TVL/volume data. Without a loan or profit share like SNEK (required repayment per intersectmbo.org), it feels like funding private business over ecosystem infrastructure.  
+  
+
