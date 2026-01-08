@@ -259,4 +259,11 @@ I vote YES on the "2025 Net Change Limit Extension" because it keeps Cardano's t
 I vote YES on the Cardano Critical Integrations Budget because it teams up Cardano's main founders — Input Output Global, Cardano Foundation, and EMURGO — to add needed tools like stablecoins, bridges to other chains, oracles for real-world data and real-world assets projects. Funds go out only after milestones, with audits and reports for transparency, and leftovers return to the treasury in 24 months.
 Downsides: partner names stay secret for deals, cutting early community checks and risking trust if things fail or lean too central, like fiat stablecoins that go against Satoshi's idea of avoiding controlled money and inflation. It hands more cash to big groups like the Foundation, who already hold plenty from early days, instead of using that or funding independent projects that proved themselves, which might slow real decentralization by depending on central players. No full cost details upfront could lead to waste.  
   
+    
+**gov_action1aw809r9gpk7eemt02alszw7lceyf0505uvntavm62rakkckr3nxsqd54zm8**  
+**InfoAction**  
+**Rationale for voting YES on Adding Christina as Extra Constitutional Committee Member**  
+The Cardano Constitution sets a minimum of seven members for the Constitutional Committee, but no maximum, so adding Christina after her close tie with Curia in the snap election fits the rules and boosts resilience—if someone quits, the committee stays above seven and avoids delays in approving actions. Christina adds enthusiasm and fresh ideas, helping users and developers on Cardano, and this follows the permissionless system where anyone can propose changes for more freedom and decentralization. On the downside, with eight members (an even number), decisions need 67% approval, meaning at least six yes votes out of eight; a 4-4 split or close votes could block actions more often, leading to slower governance, and while there's no pay for members now, a bigger group might cost the treasury more later if compensation starts, making it less efficient. Still, I vote yes because the gains in stability and inclusion outweigh the risks.  
+  
+
   
