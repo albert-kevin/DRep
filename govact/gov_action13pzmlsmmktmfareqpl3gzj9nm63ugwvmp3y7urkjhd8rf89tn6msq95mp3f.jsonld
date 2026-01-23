@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I'm voting YES on naming the next Cardano hard fork—to Protocol Version 11—the \"van Rossem Hard Fork\" in memory of Max van Rossem. Max was a dedicated Cardano community member who shaped its governance, including pushing for Article VIII in the constitution as a Dutch delegate at the Buenos Aires convention. This article explains how to update the constitution—it sees it as a \"living\" document that can change with new tech or community needs, but only with at least 65% approval from active voting stake (that's ADA holders voting directly or via DReps). This high bar prevents a few people from forcing quick, unfair tweaks or taking control, protecting safety and fair voting for all. Max also led Dutch group efforts for better representation. I met him once at an early constitution meetup; he struck me as smart and deeply passionate about Cardano."
+  },
+  "hashAlgorithm": "blake2b-256"
+}

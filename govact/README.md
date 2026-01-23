@@ -285,3 +285,21 @@ Pros: open-source GitHub tools (Apache license) reusable for DeFi (trading witho
 Cons: seeks more funds without proving users or liquidity, no clear plan for attracting traders beyond "build it and they come," which failed most Cardano DEXs except Minswap per adastat.net. The 20% budget (300K ADA) for custom metrics tracking is wasteful given Cardano's Dune partnership for cheap TVL/volume data. Without a loan or profit share like SNEK (required repayment per intersectmbo.org), it feels like funding private business over ecosystem infrastructure.  
   
 
+**gov_action13pzmlsmmktmfareqpl3gzj9nm63ugwvmp3y7urkjhd8rf89tn6msq95mp3f**  
+**InfoAction**  
+**Rationale for voting YES on "Version 11 hard fork name - van Rossem"**  
+I'm voting YES on naming the next hard fork 11 to "van Rossem",  
+in memory of Max van Rossem.  
+
+Max was a dedicated Cardano community member who shaped its governance,  
+including pushing for Article VIII in the constitution as a Dutch delegate at the Buenos Aires convention.  
+This article explains how to update the constitution—it sees it as a "living" document that can change with new tech or community needs,  
+but only with at least 65% approval from active voting stake (that's ADA holders voting directly or via DReps).  
+This high bar prevents a few people from forcing quick,  
+unfair tweaks or taking control, protecting safety and fair voting for all.  
+
+Max also led Dutch group efforts for better representation.  
+I met him once at an early constitution meetup;  
+he struck me as smart and deeply passionate about Cardano.  
+  
+
