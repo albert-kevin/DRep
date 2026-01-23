@@ -303,3 +303,10 @@ I met him once at an early constitution meetup;
 he struck me as smart and deeply passionate about Cardano.  
   
 
+**gov_action1cgdsp7g0rr7wgqp7maptpvx525fxuqwfgm5qe3f5r20ew5x2772sq0m5y83**  
+**ParameterChange**  
+**Rationale for voting YES on "Increase Transaction and Block Memory Units (Part 1 of 2)"**  
+I'm voting YES, lets reduce propagation delays, use more plutus v2, I normally don't like to increase block size, but if slot duration is not increased too much we stay within safety limits. let's change and monitor.  
+  
+
+
