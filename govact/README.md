@@ -308,5 +308,11 @@ he struck me as smart and deeply passionate about Cardano.
 **Rationale for voting YES on "Increase Transaction and Block Memory Units (Part 1 of 2)"**  
 I'm voting YES, lets reduce propagation delays, use more plutus v2, I normally don't like to increase block size, but if slot duration is not increased too much we stay within safety limits. let's change and monitor.  
   
-
-
+  
+**gov_action1m3xx08yv788vfxqh6nfvrjtvmqpwezsy0ggaczctkyjmttc2wmxsq4jsr7q**  
+**InfoAction**  
+**Rationale for voting YES on "350M ADA NCL untill 03 July 2027**  
+We don’t want to spend money just because we can,  
+but we also don’t want to miss opportunities because we’re not allowed to.  
+  
+  
