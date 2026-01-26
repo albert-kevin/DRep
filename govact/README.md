@@ -288,19 +288,9 @@ Cons: seeks more funds without proving users or liquidity, no clear plan for att
 **gov_action13pzmlsmmktmfareqpl3gzj9nm63ugwvmp3y7urkjhd8rf89tn6msq95mp3f**  
 **InfoAction**  
 **Rationale for voting YES on "Version 11 hard fork name - van Rossem"**  
-I'm voting YES on naming the next hard fork 11 to "van Rossem",  
-in memory of Max van Rossem.  
-
-Max was a dedicated Cardano community member who shaped its governance,  
-including pushing for Article VIII in the constitution as a Dutch delegate at the Buenos Aires convention.  
-This article explains how to update the constitution—it sees it as a "living" document that can change with new tech or community needs,  
-but only with at least 65% approval from active voting stake (that's ADA holders voting directly or via DReps).  
-This high bar prevents a few people from forcing quick,  
-unfair tweaks or taking control, protecting safety and fair voting for all.  
-
-Max also led Dutch group efforts for better representation.  
-I met him once at an early constitution meetup;  
-he struck me as smart and deeply passionate about Cardano.  
+I'm voting YES on naming the upcoming Protocol Version 11 hard fork the "van Rossem Hard Fork" to honor Max van Rossem and his meaningful contributions to Cardano's governance work, including the Constitution.  
+This is an InfoAction (a signalling vote, with no protocol or economic change), so the practical risk is minimal.  
+I had the privilege of meeting Max at an early Constitution meetup and remember him as sharp and deeply committed to the project.  
   
 
 **gov_action1cgdsp7g0rr7wgqp7maptpvx525fxuqwfgm5qe3f5r20ew5x2772sq0m5y83**  
