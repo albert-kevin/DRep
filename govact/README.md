@@ -304,5 +304,10 @@ I'm voting YES, lets reduce propagation delays, use more plutus v2, I normally d
 **Rationale for voting YES on "350M ADA NCL untill 03 July 2027**  
 We don’t want to spend money just because we can,  
 but we also don’t want to miss opportunities because we’re not allowed to.  
-  
-  
+   
+   
+
+**gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Cardano DeFi Liquidity Budget – Withdrawal 1"**  
+I vote NO on “Cardano DeFi Liquidity Budget – Withdrawal 1” because I voted NO on the underlying stablecoin/liquidity budget direction and I remain consistent with that position. While I value audits, reporting, and contract-based controls, this withdrawal mainly builds the legal and operational machinery to enable a much larger treasury deployment that I do not support. The Cardano treasury should prioritize core infrastructure and broadly shared public goods, not subsidizing stablecoin-liquidity strategies that increase centralization and regulatory exposure. Technical safeguards reduce implementation risk but do not resolve the mandate and precedent risk of using public funds for this purpose. For these reasons, I vote NO and encourage a smaller, fully on-chain, utility-first pilot if the community wants to test this approach.
