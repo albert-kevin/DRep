@@ -311,3 +311,11 @@ but we also don’t want to miss opportunities because we’re not allowed to.
 **Treasury withdrawals**  
 **Rationale for voting NO on "Cardano DeFi Liquidity Budget – Withdrawal 1"**  
 I vote NO on “Cardano DeFi Liquidity Budget – Withdrawal 1” because I voted NO on the underlying stablecoin/liquidity budget direction and I remain consistent with that position. While I value audits, reporting, and contract-based controls, this withdrawal mainly builds the legal and operational machinery to enable a much larger treasury deployment that I do not support. The Cardano treasury should prioritize core infrastructure and broadly shared public goods, not subsidizing stablecoin-liquidity strategies that increase centralization and regulatory exposure. Technical safeguards reduce implementation risk but do not resolve the mandate and precedent risk of using public funds for this purpose. For these reasons, I vote NO and encourage a smaller, fully on-chain, utility-first pilot if the community wants to test this approach.
+
+
+**gov_action1wwjwkg2g0qwr0mehey9r8gwn6qz3r28wl6wdl2s75kfmpy8j87tqqtft9tp**  
+**InfoAction**  
+**Rationale for voting YES on "Net Change Limit of 300 Million ADA for Epochs 613–713"**  
+I vote YES because we need a constitutional NCL in place for this epoch window after the prior 350M proposal for the same range failed CC constitutionality approval (2/3 required, i.e., 5/7).  
+An NCL is a cap, not a mandate to spend; I want treasury outflows to remain aligned with sustainable inflows as reserves decline over time and markets remain weak.  
+300M is a prudent ceiling that still leaves room to invest in high-impact work, while reducing the risk of drawing down the treasury principal over the long term.
