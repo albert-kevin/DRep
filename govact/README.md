@@ -319,3 +319,9 @@ I vote NO on “Cardano DeFi Liquidity Budget – Withdrawal 1” because I vote
 I vote YES because we need a constitutional NCL in place for this epoch window after the prior 350M proposal for the same range failed CC constitutionality approval (2/3 required, i.e., 5/7).  
 An NCL is a cap, not a mandate to spend; I want treasury outflows to remain aligned with sustainable inflows as reserves decline over time and markets remain weak.  
 300M is a prudent ceiling that still leaves room to invest in high-impact work, while reducing the risk of drawing down the treasury principal over the long term.
+
+
+**gov_action19uhuy5uame2s60yrh6n8cyds8ps5q7tkh05dqlzmpcfy429p9w4qq5ll3g0**  
+**Treasury withdrawals**  
+**Rationale for voting YES on "Amaru Treasury Withdrawal 2026"**  
+I vote YES on this treasury withdrawal because the proposal addresses a core infrastructure need: stronger node diversity and resilience for Cardano, with a defined 2026 scope. My decision is based on governance discipline as much as technical value, so funding must remain tied to milestone-based payouts, objective acceptance criteria, and transparent public reporting of delivery and spending. The requested amount is significant, which makes strict accountability essential throughout execution. If these safeguards are not upheld, future support should be reconsidered.
