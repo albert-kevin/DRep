@@ -337,3 +337,9 @@ I vote YES on this Info Action because it provides a clear and structured framew
 **Treasury withdrawals**  
 **Rationale for voting YES on "Dingo: a Production-Grade Block Producer in Go by Blink Labs"**  
 I vote YES on this treasury withdrawal because supporting a Go implementation alongside existing infrastructure improves client diversity and long-term network resilience. I consider developer growth and infrastructure investment essential for future adoption and investor confidence, even in a financially constrained period. Blink Labs has a credible reputation and a technically detailed plan, which supports funding this work. I prefer milestone- and smart-contract-based fund control, with strong accountability in execution and reporting. With those safeguards in mind, I support this proposal.
+
+
+**gov_action1uhzd06a26qavzflvrx3gvcz6rzxkl6su2ns8t3seef5e8dl6nlgsqcgtufg**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Cardano Defi Liquidity Budget - Withdrawal 1"**  
+I vote NO on this treasury withdrawal. The choice here is whether to fund legal and operational setup now for a broader DeFi-liquidity program, or to keep treasury spending focused on priorities I see as more clearly shared public goods. I acknowledge a real improvement in this version: the proposal is more structured, with clearer audit, contract controls, and refund paths. The downside I cannot ignore is that approving this step still advances a treasury direction I do not support in principle.
