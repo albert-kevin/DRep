@@ -325,3 +325,9 @@ An NCL is a cap, not a mandate to spend; I want treasury outflows to remain alig
 **Treasury withdrawals**  
 **Rationale for voting YES on "Amaru Treasury Withdrawal 2026"**  
 I vote YES on this treasury withdrawal because the proposal addresses a core infrastructure need: stronger node diversity and resilience for Cardano, with a defined 2026 scope. My decision is based on governance discipline as much as technical value, so funding must remain tied to milestone-based payouts, objective acceptance criteria, and transparent public reporting of delivery and spending. The requested amount is significant, which makes strict accountability essential throughout execution. If these safeguards are not upheld, future support should be reconsidered.
+
+
+**gov_action1a95na44kgedjk3k64ajpfp4p9d9jj3sgzc6tt9nmnkvgj7c9nraqq7g4d2u**  
+**InfoAction**  
+**Rationale for voting YES on "Cardano Budget Process Framework (facilitated by Intersect)"**  
+I vote YES on this Info Action because it provides a clear and structured framework for how Cardano budget proposals are collected, reviewed, prioritized, and monitored before treasury withdrawals are executed. I support this direction because stronger coordination and process discipline are currently more valuable than fragmented budgeting approaches. The framework improves comparability between proposals through explicit data requirements, KPI alignment, work-package budgeting, and defined review stages. It does not itself authorize direct treasury spending, but it creates a predictable governance pipeline that can reduce ambiguity and improve execution quality. In this phase of ecosystem growth, I consider this level of structured coordination through Intersect a pragmatic and beneficial choice.
