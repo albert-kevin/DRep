@@ -331,3 +331,9 @@ I vote YES on this treasury withdrawal because the proposal addresses a core inf
 **InfoAction**  
 **Rationale for voting YES on "Cardano Budget Process Framework (facilitated by Intersect)"**  
 I vote YES on this Info Action because it provides a clear and structured framework for how Cardano budget proposals are collected, reviewed, prioritized, and monitored before treasury withdrawals are executed. I support this direction because stronger coordination and process discipline are currently more valuable than fragmented budgeting approaches. The framework improves comparability between proposals through explicit data requirements, KPI alignment, work-package budgeting, and defined review stages. It does not itself authorize direct treasury spending, but it creates a predictable governance pipeline that can reduce ambiguity and improve execution quality. In this phase of ecosystem growth, I consider this level of structured coordination through Intersect a pragmatic and beneficial choice.
+
+
+**gov_action17dfgtkeufcy945e3ssanqpmn09ft3gezhvepvvg7msmlmaz260dqqjtsmpe**  
+**Treasury withdrawals**  
+**Rationale for voting YES on "Dingo: a Production-Grade Block Producer in Go by Blink Labs"**  
+I vote YES on this treasury withdrawal because supporting a Go implementation alongside existing infrastructure improves client diversity and long-term network resilience. I consider developer growth and infrastructure investment essential for future adoption and investor confidence, even in a financially constrained period. Blink Labs has a credible reputation and a technically detailed plan, which supports funding this work. I prefer milestone- and smart-contract-based fund control, with strong accountability in execution and reporting. With those safeguards in mind, I support this proposal.
