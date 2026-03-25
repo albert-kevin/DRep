@@ -335,8 +335,8 @@ I vote YES on this Info Action because it provides a clear and structured framew
 
 **gov_action17dfgtkeufcy945e3ssanqpmn09ft3gezhvepvvg7msmlmaz260dqqjtsmpe**  
 **Treasury withdrawals**  
-**Rationale for voting YES on "Dingo: a Production-Grade Block Producer in Go by Blink Labs"**  
-I vote YES on this treasury withdrawal because supporting a Go implementation alongside existing infrastructure improves client diversity and long-term network resilience. I consider developer growth and infrastructure investment essential for future adoption and investor confidence, even in a financially constrained period. Blink Labs has a credible reputation and a technically detailed plan, which supports funding this work. I prefer milestone- and smart-contract-based fund control, with strong accountability in execution and reporting. With those safeguards in mind, I support this proposal.
+**Rationale for voting NO on "Dingo: a Production-Grade Block Producer in Go by Blink Labs"**  
+I vote NO on this proposal because, although a production-grade Go node could improve resilience and add long-term value, I do not think this is the right funding priority now. Cardano is already committing substantial resources to infrastructure, and I currently prefer stronger focus on application growth, user adoption, TVL, transaction activity, and healthier ecosystem funding balance. My concern is therefore mainly about timing and treasury sequencing, not about dismissing the technical ambition or Blink Labs' work altogether. I would be more open to this type of investment later, once broader budget priorities are clearer and the case for expanding beyond the current node roadmap is more compelling.
 
 
 **gov_action1uhzd06a26qavzflvrx3gvcz6rzxkl6su2ns8t3seef5e8dl6nlgsqcgtufg**  
