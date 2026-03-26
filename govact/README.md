@@ -343,3 +343,9 @@ I vote NO on this proposal because, although a production-grade Go node could im
 **Treasury withdrawals**  
 **Rationale for voting NO on "Cardano Defi Liquidity Budget - Withdrawal 1"**  
 I vote NO on this treasury withdrawal. The choice here is whether to fund legal and operational setup now for a broader DeFi-liquidity program, or to keep treasury spending focused on priorities I see as more clearly shared public goods. I acknowledge a real improvement in this version: the proposal is more structured, with clearer audit, contract controls, and refund paths. The downside I cannot ignore is that approving this step still advances a treasury direction I do not support in principle.
+
+
+**gov_action1k5vwlfrxtyusd2ec37tckd54gjvqn2kd72xj4t6wkkapdv7zfg0qq468n2r**  
+**InfoAction**  
+**Rationale for voting YES on "Approve Cardano Foundation as New Managing Entity of Project Catalyst"**  
+I vote YES on this Info Action because keeping Funds 10-14 operational and giving the Cardano Foundation a chance to prove responsible stewardship is preferable to avoidable disruption. IOG's cooperation in this handover makes the transition more credible, and I still value Catalyst as a funding path for smaller builders even if the model may later need deeper reform or be replaced by better alternatives. At the same time, I remain cautious because CF already holds significant financial power, operates through a Swiss structure with limited community influence, and has a history that raises legitimate accountability concerns. This YES is therefore not a blank cheque: if CF later asks for more funding or manages Catalyst poorly, DReps should be ready to withdraw support and force a different path.
