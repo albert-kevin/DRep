@@ -388,3 +388,8 @@ I vote NO on the TOKEN2049 Singapore 2026 Title sponsorship top-up. I support Ca
 **Treasury withdrawals**  
 **Rationale for voting NO on "Eternl: Path to Sustainability (2026-2027)"**  
 I vote NO on this version of the Eternl treasury withdrawal. I respect Eternl and use it myself, but this first version has effectively been superseded by a revised v2 after constitutional and audit-clarity concerns were raised. I also remain uncomfortable using public treasury funds for a closed-source, private wallet's operating costs without milestone-based disbursement or an enforceable repayment mechanism. The proposed Pro-plan and treasury repayment model are positive signals, but they are still business-risk commitments rather than hard public-good guarantees. I prefer to evaluate the corrected v2 separately rather than support this older version.
+
+**gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Eternl: Path to Sustainability - v2"**  
+I vote NO on the revised Eternl proposal as well. The new version still asks the treasury to underwrite a closed-source, private wallet's operating costs, and the lower ADA/USD conversion makes the ask even larger in ADA terms for the same roughly $420,000 yearly run-rate. I appreciate the attempt to clarify audits and oversight, but that does not solve the core issue: this is still an operational subsidy without hard on-chain milestones or an enforceable repayment mechanism. Eternl is useful infrastructure, but I would rather see a smaller maintenance-only scope, stronger controls, or proof that the Pro model can stand on its own before asking the treasury for this much again.
