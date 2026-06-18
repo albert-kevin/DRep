@@ -393,3 +393,8 @@ I vote NO on this version of the Eternl treasury withdrawal. I respect Eternl an
 **Treasury withdrawals**  
 **Rationale for voting NO on "Eternl: Path to Sustainability - v2"**  
 I vote NO on the revised Eternl proposal as well. The new version still asks the treasury to underwrite a closed-source, private wallet's operating costs, and the lower ADA/USD conversion makes the ask even larger in ADA terms for the same roughly $420,000 yearly run-rate. I appreciate the attempt to clarify audits and oversight, but that does not solve the core issue: this is still an operational subsidy without hard on-chain milestones or an enforceable repayment mechanism. Eternl is useful infrastructure, but I would rather see a smaller maintenance-only scope, stronger controls, or proof that the Pro model can stand on its own before asking the treasury for this much again.
+
+**gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz**  
+**Treasury withdrawals**  
+**Rationale for voting YES on "Cardano Critical Integrations V2"**  
+I vote YES on Cardano Critical Integrations V2 because I consider these integrations part of the real infrastructure Cardano needs to stay useful for users, builders, exchanges, and institutions. The proposal is expensive and the budget transparency is not ideal, but I think stopping maintenance on live integrations like USDCx, LayerZero, Pyth, Dune, and Fireblocks would waste the earlier V1 investment and weaken Cardano’s ecosystem position. I expect the proposers to keep the reporting and accountability strong, especially because this looks like a recurring treasury obligation rather than a one-off purchase.
