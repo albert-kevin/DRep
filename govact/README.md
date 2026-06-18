@@ -394,6 +394,11 @@ I vote NO on this version of the Eternl treasury withdrawal. I respect Eternl an
 **Rationale for voting NO on "Eternl: Path to Sustainability - v2"**  
 I vote NO on the revised Eternl proposal as well. The new version still asks the treasury to underwrite a closed-source, private wallet's operating costs, and the lower ADA/USD conversion makes the ask even larger in ADA terms for the same roughly $420,000 yearly run-rate. I appreciate the attempt to clarify audits and oversight, but that does not solve the core issue: this is still an operational subsidy without hard on-chain milestones or an enforceable repayment mechanism. Eternl is useful infrastructure, but I would rather see a smaller maintenance-only scope, stronger controls, or proof that the Pro model can stand on its own before asking the treasury for this much again.
 
+**gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "5am.earth Trust Layer Targeting Vision 2030 KPIs"**  
+I vote NO on the 5am.earth Trust Layer proposal, while remaining strongly supportive of the direction. This is the kind of real-world adoption Cardano should pursue: identity, traceability, agricultural data, and auditability anchored on-chain rather than another narrow liquidity subsidy. However, the current request is too ambitious and too risky in its present form, especially with a 10M ADA ask, a large 5M ADA first tranche, very aggressive 18-month scaling targets, and no strong direct return or repayment mechanism for the Treasury. I would be open to supporting a revised version with a smaller initial tranche, clearer milestone gates, stronger evidence of demand, and tighter safeguards around public funds. My NO is therefore not a rejection of the project’s mission, but a request for a more disciplined v2.
+
 **gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz**  
 **Treasury withdrawals**  
 **Rationale for voting YES on "Cardano Critical Integrations V2"**  
