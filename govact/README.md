@@ -403,3 +403,8 @@ I vote NO on the 5am.earth Trust Layer proposal, while remaining strongly suppor
 **Treasury withdrawals**  
 **Rationale for voting YES on "Cardano Critical Integrations V2"**  
 I vote YES on Cardano Critical Integrations V2 because I consider these integrations part of the real infrastructure Cardano needs to stay useful for users, builders, exchanges, and institutions. The proposal is expensive and the budget transparency is not ideal, but I think stopping maintenance on live integrations like USDCx, LayerZero, Pyth, Dune, and Fireblocks would waste the earlier V1 investment and weaken Cardano’s ecosystem position. I expect the proposers to keep the reporting and accountability strong, especially because this looks like a recurring treasury obligation rather than a one-off purchase.
+
+**gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Rare Evo and Dev Gov Day 2026: Cardano Title Sponsorship"**  
+I vote NO on the Rare Evo and Dev Gov Day 2026 Cardano Title Sponsorship proposal. I recognize Rare Network’s track record and I see real value in Dev Gov Day as a governance and developer coordination event, but I cannot approve this package under current treasury and NCL pressure. The proposal is too broad and too expensive for what is mainly an incremental title sponsorship and visibility layer around an event that will happen regardless of treasury funding. I would be open to a leaner, more focused proposal for Dev Gov Day with clearer outcome metrics, transparent reporting, and no future-year deposit. My NO is therefore not a rejection of Rare Evo’s value, but a call for a more disciplined funding structure.
