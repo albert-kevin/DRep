@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote ABSTAIN on this proposal because I support the goal of bringing real-world payment use cases and reusable payment infrastructure to Cardano, but I am not fully convinced by the funding structure as presented. The strongest part of the proposal is its claim that the work will deliver open-source on-chain settlement, wallet/API infrastructure, account abstraction, and reusable components for other builders, not just a private card product. My concern is that a commercial payments provider may still capture most of the upside unless the public-good scope, non-exclusive reuse, Cardano-specific adoption metrics, maintenance obligations, and any return to the ecosystem are made very concrete and enforceable. I do not want to reject the direction, because payments and real-world utility matter for Cardano adoption. At the same time, I cannot vote YES without stronger assurance that this is truly shared Cardano infrastructure rather than treasury-funded commercial expansion."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
