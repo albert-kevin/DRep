@@ -433,3 +433,11 @@ I vote ABSTAIN on Reforming Treasury Governance because I agree that Cardano nee
 **Treasury withdrawals**  
 **Rationale for voting YES on "Reimburse Ikigai Info Governance Action Deposit"**  
 I vote YES to reimburse the 100,000 ADA deposit lost in this early governance action case, because this appears to be a narrow restitution issue caused by an implementation or tooling failure rather than ordinary proposal risk. I am less convinced by the additional 3,000 ADA for missed staking rewards, since normal governance action deposits do not receive interest and this should not become a precedent for open-ended opportunity-cost claims. However, given the small size of the extra amount and the importance of correcting a clear early-governance edge case, I support resolving this case now. Future reimbursement requests should require clear recipient verification and stronger guardrails.  
+
+**gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Strike Finance Liquidity Deployment"**  
+I respect Strike Finance as one of the more visible DeFi protocols in the Cardano ecosystem. My NO vote is not a vote against Strike, perpetuals, or Cardano DeFi.  
+However, I do not believe the Cardano treasury should act as a liquidity provider for one specific protocol. This proposal would sell treasury ADA into a dollar-denominated stablecoin position and deploy it into a single application, creating asset-allocation risk, opportunity-cost risk, protocol risk, smart-contract risk, stablecoin risk, and precedent risk.  
+Without a broader treasury management framework, neutral access criteria, formal risk limits, and stronger independently verified safeguards, this is not an appropriate use of public treasury funds.  
+For that reason, I vote NO.
