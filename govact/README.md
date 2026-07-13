@@ -441,3 +441,8 @@ I respect Strike Finance as one of the more visible DeFi protocols in the Cardan
 However, I do not believe the Cardano treasury should act as a liquidity provider for one specific protocol. This proposal would sell treasury ADA into a dollar-denominated stablecoin position and deploy it into a single application, creating asset-allocation risk, opportunity-cost risk, protocol risk, smart-contract risk, stablecoin risk, and precedent risk.  
 Without a broader treasury management framework, neutral access criteria, formal risk limits, and stronger independently verified safeguards, this is not an appropriate use of public treasury funds.  
 For that reason, I vote NO.
+
+**gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste**  
+**Treasury withdrawals**  
+**Rationale for voting YES on "TxPipe Dolos: Maintaining Cardano's Lightweight Data Node"**  
+I vote YES on this proposal because Dolos is useful open-source Cardano data infrastructure that helps builders access chain data without always needing heavier full-node setups or relying only on hosted APIs. The request is relatively small compared with the current 350M ADA Net Change Limit, and it funds bounded maintenance rather than a speculative new product. I also see TxPipe as a trusted ecosystem contributor, and maintaining developer infrastructure fits well with Cardano’s long-term needs. My support is not unconditional: future funding should show clearer usage metrics, concrete adoption, and measurable impact so the treasury can keep prioritizing the most valuable public-good infrastructure.  
