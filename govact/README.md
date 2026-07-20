@@ -481,3 +481,8 @@ I vote YES on "Withdraw 3,810,423 ada for Mithril Protocol" because Mithril is c
 **Treasury withdrawals**  
 **Rationale for voting YES on "MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply"**  
 I vote YES on "MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply" because Cardano needs well-maintained tools for people building smart contracts. Plutarch and Ply are not user-facing apps, but if tools like these fall behind, builders can face broken code, extra migration work, or higher costs when Cardano changes. I also want Cardano to keep supporting several serious smart-contract toolchains, including Aiken, so developers have strong options instead of a single path. My support is not a blank cheque: future requests should explain usage, deliverables, costs, and the 15-team versus 26-team adoption claim more clearly.
+
+**gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2**  
+**Treasury withdrawals**  
+**Rationale for voting NO on "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol"**  
+I vote NO on "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol" because Sundial and Charms publicly announced that they will not proceed with this Treasury proposal at this time. This is not a rejection of BTCfi or of a future revised Alchemy proposal, but a vote against approving 10M ADA for an action its own proponents have withdrawn.
