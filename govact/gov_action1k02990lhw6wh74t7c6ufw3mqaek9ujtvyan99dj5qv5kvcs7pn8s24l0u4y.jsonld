@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote YES on \"Withdraw 3,810,423 ada for Mithril Protocol\" because Mithril is core Cardano infrastructure: it helps nodes, wallets, light clients, bridges, and monitoring tools verify Cardano state faster and with less reliance on centralized APIs or full-chain synchronization. This is a high-priority public-good spend, not a speculative subsidy, and the Intersect treasury-contract process gives better fund control than a simple upfront transfer. My concern is that even core infrastructure must meet a higher standard under tight NCL pressure: future funding should show clearer FTE/rate breakdowns, milestone acceptance criteria, usage metrics, wallet/node integration evidence, and a sustainable maintenance path. I support this withdrawal to protect important infrastructure continuity, but I expect sharper reporting and cost transparency before similar future requests."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
