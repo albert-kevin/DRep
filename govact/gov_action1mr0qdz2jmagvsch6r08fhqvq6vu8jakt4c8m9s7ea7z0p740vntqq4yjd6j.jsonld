@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote YES on \"Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027\" because Cardano should retain at least one open-source full-node wallet for users who want to verify the chain locally rather than rely on a hosted backend. Daedalus will not be the right wallet for most people, but its role is reliability and self-sovereignty, not mass adoption; maintaining Mithril/partial snapshot sync is especially important to keep the full-node route usable on ordinary hardware. I also support CIP-30 and hardware-wallet work because full-node users should not have to abandon that trust model to use dApps. This is a one-year bridge, not an automatic subsidy: future funding should show independently useful usage and support data, clear FTE/cost detail, public milestone results, sustainable maintenance ownership, and no ADA/USD top-up."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
