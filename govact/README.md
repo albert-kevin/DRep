@@ -516,3 +516,8 @@ I vote NO on "Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phas
 **Treasury withdrawals**<br>
 **Rationale for voting NO on "Revised Cardano dOSPO and OMF Program Proposal"**<br>
 I vote NO on this proposal. Supporting open-source maintainers matters, and this revised one-year plan is an improvement. But it would give 4.094 million ADA to one administrator, while the councils can only advise and cannot stop payments. It also overlaps with Intersect's existing POSM programmes. I would rather support a smaller, clearly scoped plan with shared control and clear milestones.
+
+**gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h**<br>
+**Info Action**<br>
+**Rationale for voting YES on "Name the Protocol Version 12 hard fork von Bergen"**<br>
+I vote YES on "Name the Protocol Version 12 hard fork von Bergen". This is a small, non-financial Info Action that honours Fabian von Bergen, also known as Zyroxa, as an early community member, Ambassador, Tempus SPO, and independent voice. Naming the hard fork after him follows Cardano's tradition of recognising deceased contributors. I support applying the same respectful, non-competitive standard to future memorial naming proposals.
