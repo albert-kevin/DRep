@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote NO on \"Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phase 1 of 2)\". It is a promising open-source approach to bringing Bitcoin liquidity to Cardano, and its escrow, independent oversight, security work, and potential future Treasury return are meaningful strengths. However, I do not think 12,332,031 ADA should be committed before the Catalyst-funded testnet project is fully delivered, independently assessed, and clearly reconciled with this next scope. Phase 1 ends with a private deployment while public launch, operations, and a further funding request remain ahead, creating too much budget and delivery uncertainty under current Treasury pressure. I would prefer a dedicated Catalyst-style programme for high-risk strategic infrastructure and would reconsider Bifrost after final Catalyst evidence and a clearer full path to public operation."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
