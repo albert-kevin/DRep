@@ -511,3 +511,8 @@ I vote ABSTAIN on "Global Order Book connect Cardano DeFi to increase transactio
 **Treasury withdrawals**<br>
 **Rationale for voting NO on "Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phase 1 of 2)"**<br>
 I vote NO on "Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phase 1 of 2)". It is a promising open-source approach to bringing Bitcoin liquidity to Cardano, and its escrow, independent oversight, security work, and potential future Treasury return are meaningful strengths. However, I do not think 12,332,031 ADA should be committed before the Catalyst-funded testnet project is fully delivered, independently assessed, and clearly reconciled with this next scope. Phase 1 ends with a private deployment while public launch, operations, and a further funding request remain ahead, creating too much budget and delivery uncertainty under current Treasury pressure. I would prefer a dedicated Catalyst-style programme for high-risk strategic infrastructure and would reconsider Bifrost after final Catalyst evidence and a clearer full path to public operation.
+
+**gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t**<br>
+**Treasury withdrawals**<br>
+**Rationale for voting NO on "Revised Cardano dOSPO and OMF Program Proposal"**<br>
+I vote NO on this proposal. Supporting open-source maintainers matters, and this revised one-year plan is an improvement. But it would give 4.094 million ADA to one administrator, while the councils can only advise and cannot stop payments. It also overlaps with Intersect's existing POSM programmes. I would rather support a smaller, clearly scoped plan with shared control and clear milestones.
