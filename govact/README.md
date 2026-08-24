@@ -521,3 +521,8 @@ I vote NO on this proposal. Supporting open-source maintainers matters, and this
 **Info Action**<br>
 **Rationale for voting YES on "Name the Protocol Version 12 hard fork von Bergen"**<br>
 I vote YES on "Name the Protocol Version 12 hard fork von Bergen". This is a small, non-financial Info Action that honours Fabian von Bergen, also known as Zyroxa, as an early community member, Ambassador, Tempus SPO, and independent voice. Naming the hard fork after him follows Cardano's tradition of recognising deceased contributors. I support applying the same respectful, non-competitive standard to future memorial naming proposals.
+
+**gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk**<br>
+**ParameterChange**<br>
+**Rationale for voting YES on "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)"**<br>
+I vote YES on "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)" because it completes a staged Plutus memory increase that has passed technical review and testing, giving developers more execution headroom within Cardano's guardrails. Lowering minPoolCost from 170 to 75 ADA is not a complete incentive reform, but it gives smaller pools and their delegators more flexibility as rewards decline without forcing any operator to cut fees. I recognize the concern that unrelated economic and technical changes are bundled into one vote; this should not become normal governance practice. I expect follow-up work on minPoolMargin and broader incentive reform, with transparent monitoring of pool sustainability and decentralization effects.
