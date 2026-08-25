@@ -531,3 +531,8 @@ I vote YES on "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (P
 **NewCommittee**<br>
 **Rationale for voting YES on "Update Constitutional Committee 2026"**<br>
 I vote YES on "Update Constitutional Committee 2026" because Cardano needs a functioning Constitutional Committee and this action implements an audited election result without changing the quorum or using treasury funds. I share the concern that an off-chain election creates an extra, opaque layer: many DReps may miss it, and the final on-chain vote can become a rubber stamp on a popularity contest. However, blocking a valid result now would leave too few members for the committee to operate; that is a worse outcome than confirming it. This YES is not approval of every candidate or of the current process: future CC elections should be discoverable in GovTool, let DReps assess candidates directly, and require clear conflict and conduct safeguards.
+
+**gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp**<br>
+**TreasuryWithdrawals**<br>
+**Rationale for voting NO on "Governance Incentives Framework 2026"**<br>
+I vote NO on "Governance Incentives Framework 2026" because Cardano should address governance burnout and voting-power concentration, but this 4.2M ADA treasury withdrawal is too broad and under-specified while about 457.4M ADA of the 500M ADA NCL is already ratified. Only a small portion funds the pilot, while the detailed budget, named administrator, and independent controls are missing. I would support a revised, phased proposal with public operational costs, a defined anti-gaming pilot, named independent oversight, milestone-based or escrowed releases, clear success and stop criteria, and a separate DRep vote before expansion.
