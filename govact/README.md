@@ -536,3 +536,8 @@ I vote YES on "Update Constitutional Committee 2026" because Cardano needs a fun
 **TreasuryWithdrawals**<br>
 **Rationale for voting NO on "Governance Incentives Framework 2026"**<br>
 I vote NO on "Governance Incentives Framework 2026" because Cardano should address governance burnout and voting-power concentration, but this 4.2M ADA treasury withdrawal is too broad and under-specified while about 457.4M ADA of the 500M ADA NCL is already ratified. Only a small portion funds the pilot, while the detailed budget, named administrator, and independent controls are missing. I would support a revised, phased proposal with public operational costs, a defined anti-gaming pilot, named independent oversight, milestone-based or escrowed releases, clear success and stop criteria, and a separate DRep vote before expansion.
+
+**gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht**<br>
+**Treasury withdrawals**<br>
+**Rationale for voting YES on "Reimburse Ikigai Info Governance Action Deposit"**<br>
+I vote YES on "Reimburse Ikigai Info Governance Action Deposit" because the 100,000 ADA deposit was lost in an early governance tooling failure rather than through ordinary proposal risk. The withdrawal credential matches the credential of the original Ikigai InfoAction, so the principal is technically traceable to the affected address. I consider the extra 3,000 ADA for estimated staking rewards a weak and opportunistic addition, since normal governance deposits do not earn staking rewards. Still, this small amount should not block a narrow correction; it must not create a precedent for interest, price-loss, or opportunity-cost claims.
